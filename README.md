@@ -11,7 +11,7 @@ Web Developer / Back end Engineer
 ## 🤔 Database
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsandoo&show_icons=true&theme=radical)   [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=gsandoo)](https://solved.ac/profile/gsandoo)
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsandoo&show_icons=true&theme=radical) 
 <!--
 **gsandoo/gsandoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
