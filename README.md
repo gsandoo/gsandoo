@@ -1,6 +1,6 @@
 ### Hi Welcome, Im San Ah Kang 👋
 
-## <div><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sandoo is FREE&fontSize=90" /></div>
+## <div><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sandoo-is-FREE&fontSize=90" /></div>
 
 Web Developer / Back end Engineer
 
