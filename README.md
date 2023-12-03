@@ -3,6 +3,9 @@
 ## ✨ Bio
 안녕하세요, Backend 개발자를 지망하고 있는 강산아 입니다. 
 
+## 💬 Portfolio
+https://gsandoo.github.io/gsandoo-portfolio/#
+
 ## 💻 Language
 <img src="https://img.shields.io/badge/Java-CC0000?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jss&logoColor=white"/>
 
