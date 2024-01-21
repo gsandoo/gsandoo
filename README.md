@@ -1,33 +1,55 @@
-## <div><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sandoo-is-FREE&fontSize=90" /></div>
+# 강산아(Kenny) 😉
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgsandoo&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/gsandoo) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pkfghm@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gsandoo) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)](https://www.https://linkedin.com/in/%EC%82%B0%EC%95%84-%EB%8F%99%EA%B5%AD%EB%8C%80-%EA%B0%95-373476291/) 
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://rogersddt.tistory.com/)
 
-## ✨ Bio
-안녕하세요, Backend 개발자를 지망하고 있는 강산아 입니다. 
+  
+ ### Who Am I
 
-## 💬 Portfolio
-https://gsandoo.github.io/devfolio/index.html
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gsandoo">
 
-## 💻 Language
-<img src="https://img.shields.io/badge/Java-CC0000?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jss&logoColor=white"/>
+- 🌱 I’m currently learning `aws`, `k8s`, `linux`
+- 🥇 I majored in Sports Culture / Computer Science
+- 🚅 My hometown is Incheon, in Korea
 
 
-## 🛠 Stack
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Springboot-DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
-## 💾 Database
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> 
+ ### Experience
 
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsandoo&show_icons=true&theme=radical) 
-<!--
-**gsandoo/gsandoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏢 리테일앤인사이트 입사 (2024.01~)
+- 🏅 2023 한이음 ICT 멘토링 공모전 한국정보산업연합회장상 수상 (2023.11)
+- 🌍 Dongguk University GDSC 1기 General Member (2023.09~)
+- 🔥 Univ MakeUs Challenge 2기, 3기 (2022.03~2022.08 / 2022.09~2023.02)
+- 📜 정보처리기사 1급 자격증 취득
+- 📜 Coursera Google IT 지원 자격증 취득
+- 🎓 Dongguk University , (2018.03~)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### What I Like
+
+- 📷 Camera directing
+- 🎹 Music
+- 🍕 Pizza
+- 📚 Books
+- 🏀 Basketball
+
+
+
+ ### Skills
+
+ #### Frontend stack
+
+ - React
+ - Flutter
+
+#### Backend stack
+
+- Spring
+- Flask
+
+#### Infra
+
+- AWS
+- GCP
