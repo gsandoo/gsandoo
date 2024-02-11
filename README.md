@@ -19,7 +19,7 @@
 
  ### Experience
 
-- 🏢 리테일앤인사이트 입사 (2024.01~)
+- 🏢 리테일앤인사이트 인턴 (2024.01~)
 - 🏅 한이음 ICT 멘토링 공모전 한국정보산업연합회장상 (2023.03 ~ 2023.11)
 - 🌍 Dongguk University GDSC 1기 General Member (2023.09~)
 - 🔥 Univ Makeus Challenge 2, 3기 (2022.03~2023.02)
