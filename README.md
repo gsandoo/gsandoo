@@ -28,11 +28,11 @@
 - 🎓 Dongguk University , (2018.03~)
 
 
- ### What I Like
+ ### Skills
 
-- 📷 Camera directing
-- 🎹 Music
-- 🍕 Pizza
-- 📚 Books
-- 🏀 Basketball
+- Spring
+- React
+- Flask
+- AWS
+- GCP
 
