@@ -24,7 +24,8 @@
 - 🌍 Dongguk University GDSC 1기 General Member (2023.09~)
 - 🔥 Univ Makeus Challenge 2, 3기 (2022.03~2023.02)
 - 📜 정보처리기사 1급 
-- 📜 Coursera Google IT 지원 
+- 📜 Coursera Google IT 지원
+- 📜 OPIC AL
 - 🎓 Dongguk University , (2018.03~)
 
 
