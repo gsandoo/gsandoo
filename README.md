@@ -10,6 +10,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gsandoo">
 
+- https://gsandoo.github.io/devfolio/
 - 💡 I want tobe Backend Engineer / DevOps
 - 🌱 I’m currently learning `aws`, `k8s`, `linux`
 - 🥇 I majored in Sports Culture / Computer Science
