@@ -12,7 +12,7 @@
 
 - https://gsandoo.github.io/devfolio/
 - 💡 I want tobe Backend Engineer / DevOps
-- 🌱 I’m currently learning `aws`, `k8s`, `linux`
+- 🌱 I’m currently interested in `aws`, `k8s`, `linux`
 - 🥇 I majored in Sports Culture / Computer Science
 - 🚅 My hometown is Incheon, in Korea
 
