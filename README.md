@@ -35,7 +35,7 @@
 - AWS
 - GCP
 
-  ### Certification
+ ### Certification
 
 - 📜 정보처리기사 1급 
 - 📜 Coursera Google IT 지원
