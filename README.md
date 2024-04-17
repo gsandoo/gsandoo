@@ -22,12 +22,9 @@
 
 - 🏢 리테일앤인사이트 인턴(2024.01~)
 - 🏅 한이음 ICT 멘토링 공모전 한국정보산업연합회장상 (2023.03 ~ 2023.11)
-- :clubs: 99 club 1기 (2024.03~)
+- :clubs: 99 club 1기 (2024.03~2024.04)
 - 🌍 Dongguk University GDSC 1기 General Member (2023.09~)
 - 🔥 Univ Makeus Challenge 2, 3기 (2022.03~2023.02)
-- 📜 정보처리기사 1급 
-- 📜 Coursera Google IT 지원
-- 📜 OPIC AL
 - 🎓 Dongguk University , (2018.03~)
 
 
@@ -37,4 +34,10 @@
 - Flask
 - AWS
 - GCP
+
+  ### Certification
+
+- 📜 정보처리기사 1급 
+- 📜 Coursera Google IT 지원
+- 📜 OPIC AL
 
