@@ -32,10 +32,10 @@
 
  ### Skills
 
-- Spring
-- Flask
-- AWS
-- GCP
+- :wrench: Spring
+- :wrench: Flask
+- :wrench: AWS
+- :wrench: GCP
 
  ### Certification
 
