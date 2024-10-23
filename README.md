@@ -10,7 +10,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gsandoo">
 
-- https://gsandoo.github.io/devfolio/
+- 🧑 https://gsandoo.github.io/devfolio/
 - 💡 I want tobe Backend Engineer / DevOps
 - 🌱 I’m currently interested in `aws`, `k8s`, `linux`
 - 🥇 I majored in Sports / Computer Science
@@ -20,8 +20,8 @@
 
  ### Experience
 
-- 🎆 POPPIN 개발 팀장 (2024.01~)
-- 🏅 STARTUP021 2024 창업동아리 선발 (2024.05)
+- 🎆 POPPIN 개발 총괄 (2024.01~)
+- 🥇 STARTUP021 2024 창업 아이템 선발 (2024.05)
 - 🏢 (주)리테일앤인사이트 인턴 (2024.01~2024.06)
 - 🏅 한이음 ICT 멘토링 공모전 한국정보산업연합회장상 (2023.03 ~ 2023.11)
 - :clubs: 99 club 1기 (2024.03~2024.04)
