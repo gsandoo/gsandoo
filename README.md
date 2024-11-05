@@ -37,6 +37,7 @@
 - :wrench: Flask
 - :wrench: AWS
 - :wrench: GCP
+- :wrench: RabbitMQ
 
  ### Certification
 
