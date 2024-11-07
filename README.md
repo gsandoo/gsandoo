@@ -20,6 +20,7 @@
 
  ### Experience
 
+- :cloud: KakaoTech Cloud Native in Jeju 2기 (2024.10 ~ 2025.05)
 - 🥇 2024 안동시 창업경진대회 우수상(국림안동대학교총장상) (2024.10)
 - 🎆 POPPIN 개발 총괄 (2024.01~)
 - 🥇 STARTUP021 2024 창업 아이템 선발 (2024.05)
