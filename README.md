@@ -46,4 +46,5 @@
 - 📜 정보처리기사 1급 
 - 📜 Coursera Google IT 지원
 - 📜 OPIC AL
+- 📜 리눅스마스터 1급 필기 
 
