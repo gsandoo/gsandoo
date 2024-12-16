@@ -36,7 +36,7 @@
 
 - :wrench: Spring
 - :wrench: Flask
-- :wrench: Express
+- :wrench: Node.js
 - :wrench: AWS
 - :wrench: GCP
 - :wrench: RabbitMQ
