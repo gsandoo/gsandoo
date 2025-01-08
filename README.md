@@ -35,6 +35,7 @@
  ### Skills
 
 - :wrench: Spring
+- :wrench: React
 - :wrench: Flask
 - :wrench: Node.js
 - :wrench: AWS
