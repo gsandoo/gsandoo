@@ -49,5 +49,5 @@
 - 📜 OPIC AL
 - 📜 리눅스마스터 1급 필기
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
