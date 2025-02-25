@@ -41,6 +41,8 @@
 - :wrench: AWS
 - :wrench: GCP
 - :wrench: RabbitMQ
+- :wrench: K8S
+- :wrench: Kafka
 
  ### Certification
 
