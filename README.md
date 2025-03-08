@@ -26,7 +26,7 @@
 - :clubs: 99 club 1기 (2024.03~2024.04)
 - 🌍 Dongguk University GDSC 1기 General Member (2023.09~2024.08)
 - 🔥 Univ Makeus Challenge 2, 3기 (2022.03~2023.02)
-- 🎓 Dongguk University , (2018.03~)
+- 🎓 Dongguk University (2018.03~)
 
 ### Awards
 - 🥇 2025 KakaoTech Bootcamp 해커톤 대상 (카카오대표이사상) (2025.03)
