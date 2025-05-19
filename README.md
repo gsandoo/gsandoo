@@ -41,6 +41,7 @@
 - :wrench: React
 - :wrench: Flask
 - :wrench: Node.js
+- :wrench: FastApi
 - :wrench: AWS
 - :wrench: GCP
 - :wrench: RabbitMQ
