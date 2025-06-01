@@ -28,7 +28,7 @@
 - 🎓 Dongguk University (2018.03~2025.02)
 
 ### Awards
-- 🥇 2025 KakaoTech Bootcamp 최종 프로젝트 우수상 (2025.05)
+- 🥇 2025 KakaoTech Bootcamp 최종 프로젝트 우수상 (구름기업상) (2025.05)
 - 🥇 2025 KakaoTech Bootcamp 해커톤 대상 (카카오대표이사상) (2025.03)
 - 🥇 STARTUP021 2025 창업 아이템 선발 (2025.03)
 - 🥇 2024 안동시 창업경진대회 우수상 (국림안동대학교총장상) (2024.10)
