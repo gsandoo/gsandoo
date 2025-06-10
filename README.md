@@ -10,7 +10,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gsandoo">
 
-- 💡 I want tobe Backend Engineer / DevOps
+- 💡 I am Backend Engineer / DevOps
 - 🌱 I’m currently interested in `aws`, `k8s`, `linux`
 - 🥇 I majored in Sports / Computer Science
 - 🚅 My hometown is Incheon, in Korea
