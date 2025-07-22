@@ -44,7 +44,7 @@
 - :wrench: FastApi
 - :wrench: AWS
 - :wrench: GCP
-- :wrench: RabbitMQ
+- :wrench: Redis
 - :wrench: K8S
 
  ### Certification
