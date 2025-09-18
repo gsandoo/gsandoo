@@ -37,15 +37,15 @@
   
  ### Skills
 
-- :wrench: Spring
-- :wrench: React
-- :wrench: Flask
-- :wrench: Node.js
-- :wrench: FastApi
-- :wrench: AWS
-- :wrench: GCP
-- :wrench: Redis
-- :wrench: K8S
+- :wrench: Spring ★★★★★
+- :wrench: React ★★★★☆
+- :wrench: Flask ★★★★☆
+- :wrench: Node.js ★★★★☆
+- :wrench: FastApi ★★★☆☆
+- :wrench: AWS ★★★★★
+- :wrench: GCP ★★★★☆
+- :wrench: Redis ★★★★☆
+- :wrench: K8S ★★★★☆
 
  ### Certification
 
