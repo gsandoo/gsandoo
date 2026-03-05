@@ -18,8 +18,8 @@
 
 
  ### Experience
-
-- ☁️  KakaoTech Cloud Native in Jeju 2기 (2024.10 ~ 2025.05)
+- 🏛️  (주)롯데손해보험 DBA (2025.09~)
+- ☁️  KakaoTech Cloud Native in Jeju 2기 (2024.10~2025.05)
 - 🎆 POPPIN 개발 lead (2024.01~)
 - 🏢 (주)리테일앤인사이트 인턴 (2024.01~2024.06)
 - :clubs: 99 club 1기 (2024.03~2024.04)
